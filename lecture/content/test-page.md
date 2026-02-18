@@ -8,4 +8,6 @@ Here is the content of my dropdown
 :class: dropdown
 Here is a small tip for your brain
 ```
-![Emoji Gehirn](lecture/static/Emoji_Gehirn.svg)
+![Emoji Gehirn](test-course/lecture/static/Emoji_Gehirn.svg)
+
+<iframe src="https://next.hessenbox.de/index.php/s/yxqSqaZsJPP43JC start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
