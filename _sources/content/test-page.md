@@ -8,3 +8,4 @@ Here is the content of my dropdown
 :class: dropdown
 Here is a small tip for your brain
 ```
+![Emoji Gehirn](lecture/static/Emoji_Gehirn.svg)
