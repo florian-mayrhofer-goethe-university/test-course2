@@ -5,9 +5,9 @@ chapters:
 - file: general_information/setup
 - file: general_information/intro
 - file: content/intro_content
-- file: content/test-page
   sections:
   - file: content/static_content
   - file: content/interactive_notebook
+- file: content/test-page
 - file: general_information/CoC
 - file: general_information/dei
