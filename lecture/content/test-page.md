@@ -1,3 +1,6 @@
-# This is a Heading
+# Workshop Test Page
 
-Hello and welcome
+Hello and welcome.
+```{dropdown} Title of my dropdown
+Here is the content of my dropdown
+```
